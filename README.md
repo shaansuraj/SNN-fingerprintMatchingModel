@@ -1,0 +1,3 @@
+Achieved 96.86% accuracy in fingerprint matching using advanced Siamese Neural Network (SNN) model, optimizing training pipeline to converge training and validation losses at approximately 0.145 and 0.167 respectively.
+Developed robust fingerprint recognition system, ensuring accuracy amidst varying patterns, rotations, and distortions, showcasing expertise in machine learning and computer vision.
+Implemented efficient training strategies, such as adaptive learning rate scheduling and early stopping mechanisms, to fine-tune model performance, demonstrating a data-driven approach to achieve optimal results in biometric authentication.
