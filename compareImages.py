@@ -65,7 +65,7 @@ preprocess = transforms.Compose([
 net = Siamese()
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 net.to(device)
-net.load_state_dict(torch.load("workModelLeft.pt", map_location=device))
+net.load_state_dict(torch.load("best_model.pt", map_location=device))
 net.eval()
 
 # Function to check similarity between two images
